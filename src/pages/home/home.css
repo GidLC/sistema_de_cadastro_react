@@ -1,0 +1,22 @@
+main.home-main{
+    width: 100vw;
+    height: 100vh;
+}
+
+header.home-header{
+    width: 100%;
+    height: 10%;
+    background-color: grey;
+}
+
+section.home-section{
+    width: 100%;
+    height: 80%;
+    min-height: 80%;
+}
+
+footer.home-footer{
+    width: 100%;
+    height: 10%;
+    
+}
