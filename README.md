@@ -1,2 +1,2 @@
 # sistema_de_cadastro_react
- Ssistema de Cadastro criado em react e back em node
+ Sistema de Cadastro (CRUD) criado em react na Aula de Programação Web do 5° Semestre de Sistemas de Informação
